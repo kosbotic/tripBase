@@ -17,7 +17,7 @@
   -->
 
 <resources>
-    <string name="app_name">Trip Book</string>
+    <string name="app_name">Trip Book v2</string>
     <string name="action_delete_item">Item Deleted</string>
     <string name="action_undo">UNDO?</string>
 
